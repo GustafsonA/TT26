@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Connect the rotary encoder to input A ("A_in") and input B ("B_in"). The output will then be a debounced signal to used with i.e. a counter, having clk & up/down on output 1 & 2 respectively.  
 
 ## How to test
 
-Explain how to use your project
+Connect to input 1+2, check output 1+2
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Rotary encoder - preferribly one from an Arduino set.
